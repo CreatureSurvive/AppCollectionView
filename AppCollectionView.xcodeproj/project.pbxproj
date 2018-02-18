@@ -7,25 +7,67 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B24105E1DDFE14731561D4E /* snapshot_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B2413A3FB4E88A3C6838CAC /* snapshot_6.png */; };
+		9B24113921DA4E03AD3A4963 /* snapshot_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B2413A92060F5BCACA6F69C /* snapshot_0.png */; };
+		9B2412ACE87A0FF189D531F3 /* snapshot_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B24183D1942EEE16C8790DB /* snapshot_4.png */; };
+		9B2412DE419B52397DE2E48D /* snapshot_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B241FE902816D6BEA9975E4 /* snapshot_3.png */; };
+		9B24148C2D5EA32311D0EEF7 /* CardViewHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B24146DF54633309E5BA1D8 /* CardViewHeader.m */; };
+		9B241562343AC481C7D67C1F /* CardViewButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B24175714D90F43E1A2E3A6 /* CardViewButton.m */; };
+		9B2416128651DEA53035ACA8 /* SnapshotView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B2411918E16D7E7CD24B5C4 /* SnapshotView.m */; };
+		9B24172B7AD148B0148235C0 /* snapshot_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B241DF493954D2E108E4C40 /* snapshot_2.png */; };
+		9B241999862EAA40E55CF9F2 /* ColorProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B2417C4045F9722E6A4AB3F /* ColorProvider.m */; };
+		9B2419CEDFB39C488410F195 /* snapshot_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B24124FC2E78D0059255894 /* snapshot_5.png */; };
+		9B241AA697C21DB9B5EE4314 /* StackContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B2415F16CC5174BBF12A47D /* StackContainer.m */; };
+		9B241E7F0FD403C75838F3C2 /* snapshot_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B241EFE7D373410DC5E210B /* snapshot_7.png */; };
+		9B241FECCADE47596F7B9477 /* snapshot_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B2410210DAE561244154C61 /* snapshot_1.png */; };
 		B86A3728201A8787000635CD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B86A3727201A8787000635CD /* AppDelegate.m */; };
-		B86A372B201A8787000635CD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B86A372A201A8787000635CD /* ViewController.m */; };
+		B86A372B201A8787000635CD /* CollectionViewControler.m in Sources */ = {isa = PBXBuildFile; fileRef = B86A372A201A8787000635CD /* CollectionViewControler.m */; };
 		B86A372E201A8787000635CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B86A372C201A8787000635CD /* Main.storyboard */; };
 		B86A3730201A8787000635CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B86A372F201A8787000635CD /* Assets.xcassets */; };
 		B86A3733201A8787000635CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B86A3731201A8787000635CD /* LaunchScreen.storyboard */; };
 		B86A3736201A8787000635CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B86A3735201A8787000635CD /* main.m */; };
+		B86A373E201A9D07000635CD /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B86A373D201A9D07000635CD /* CollectionViewCell.m */; };
+		B8D1FAEB201FF1CD00072D4C /* appcard.png in Resources */ = {isa = PBXBuildFile; fileRef = B8D1FAEA201FF1CD00072D4C /* appcard.png */; };
+		B8D1FAF92020145600072D4C /* play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8D1FAF82020145500072D4C /* play@2x.png */; };
+		B8D1FAFB2020146F00072D4C /* skip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8D1FAFA2020146E00072D4C /* skip@2x.png */; };
+		B8D1FAFD2020149900072D4C /* back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8D1FAFC2020149900072D4C /* back@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B2410210DAE561244154C61 /* snapshot_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_1.png; sourceTree = "<group>"; };
+		9B2411918E16D7E7CD24B5C4 /* SnapshotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SnapshotView.m; sourceTree = "<group>"; };
+		9B24124FC2E78D0059255894 /* snapshot_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_5.png; sourceTree = "<group>"; };
+		9B2413A3FB4E88A3C6838CAC /* snapshot_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_6.png; sourceTree = "<group>"; };
+		9B2413A92060F5BCACA6F69C /* snapshot_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_0.png; sourceTree = "<group>"; };
+		9B24146DF54633309E5BA1D8 /* CardViewHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardViewHeader.m; sourceTree = "<group>"; };
+		9B2414E6CC61F80A43E9FEAA /* ColorProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorProvider.h; sourceTree = "<group>"; };
+		9B2415F16CC5174BBF12A47D /* StackContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StackContainer.m; sourceTree = "<group>"; };
+		9B24175714D90F43E1A2E3A6 /* CardViewButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardViewButton.m; sourceTree = "<group>"; };
+		9B2417C4045F9722E6A4AB3F /* ColorProvider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorProvider.m; sourceTree = "<group>"; };
+		9B24183D1942EEE16C8790DB /* snapshot_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_4.png; sourceTree = "<group>"; };
+		9B241931FC3B5D9F1B497141 /* CardViewHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardViewHeader.h; sourceTree = "<group>"; };
+		9B241A4A3996938964F8D135 /* SnapshotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SnapshotView.h; sourceTree = "<group>"; };
+		9B241D895F2B5A8738AD19A5 /* CardViewButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardViewButton.h; sourceTree = "<group>"; };
+		9B241D9A41E3B61D8D9FC702 /* StackContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StackContainer.h; sourceTree = "<group>"; };
+		9B241DF493954D2E108E4C40 /* snapshot_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_2.png; sourceTree = "<group>"; };
+		9B241EFE7D373410DC5E210B /* snapshot_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_7.png; sourceTree = "<group>"; };
+		9B241FCC3DD4788067282A21 /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		9B241FE902816D6BEA9975E4 /* snapshot_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snapshot_3.png; sourceTree = "<group>"; };
 		B86A3723201A8787000635CD /* AppCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B86A3726201A8787000635CD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B86A3727201A8787000635CD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B86A3729201A8787000635CD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B86A372A201A8787000635CD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B86A3729201A8787000635CD /* CollectionViewControler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewControler.h; sourceTree = "<group>"; };
+		B86A372A201A8787000635CD /* CollectionViewControler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewControler.m; sourceTree = "<group>"; };
 		B86A372D201A8787000635CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B86A372F201A8787000635CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B86A3732201A8787000635CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B86A3734201A8787000635CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B86A3735201A8787000635CD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B86A373D201A9D07000635CD /* CollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
+		B8D1FAEA201FF1CD00072D4C /* appcard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appcard.png; sourceTree = "<group>"; };
+		B8D1FAF82020145500072D4C /* play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play@2x.png"; sourceTree = "<group>"; };
+		B8D1FAFA2020146E00072D4C /* skip@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "skip@2x.png"; sourceTree = "<group>"; };
+		B8D1FAFC2020149900072D4C /* back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +81,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B2417635C7B87F705EF9A5A /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				B8D1FAFA2020146E00072D4C /* skip@2x.png */,
+				B8D1FAF82020145500072D4C /* play@2x.png */,
+				B8D1FAFC2020149900072D4C /* back@2x.png */,
+				B8D1FAEA201FF1CD00072D4C /* appcard.png */,
+				9B2413A92060F5BCACA6F69C /* snapshot_0.png */,
+				9B2410210DAE561244154C61 /* snapshot_1.png */,
+				9B241DF493954D2E108E4C40 /* snapshot_2.png */,
+				9B241FE902816D6BEA9975E4 /* snapshot_3.png */,
+				9B24183D1942EEE16C8790DB /* snapshot_4.png */,
+				9B24124FC2E78D0059255894 /* snapshot_5.png */,
+				9B2413A3FB4E88A3C6838CAC /* snapshot_6.png */,
+				9B241EFE7D373410DC5E210B /* snapshot_7.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
 		B86A371A201A8787000635CD = {
 			isa = PBXGroup;
 			children = (
@@ -60,13 +121,26 @@
 			children = (
 				B86A3726201A8787000635CD /* AppDelegate.h */,
 				B86A3727201A8787000635CD /* AppDelegate.m */,
-				B86A3729201A8787000635CD /* ViewController.h */,
-				B86A372A201A8787000635CD /* ViewController.m */,
+				9B241FCC3DD4788067282A21 /* CollectionViewCell.h */,
+				B86A373D201A9D07000635CD /* CollectionViewCell.m */,
+				9B2417C4045F9722E6A4AB3F /* ColorProvider.m */,
+				9B2414E6CC61F80A43E9FEAA /* ColorProvider.h */,
+				B86A3729201A8787000635CD /* CollectionViewControler.h */,
+				B86A372A201A8787000635CD /* CollectionViewControler.m */,
 				B86A372C201A8787000635CD /* Main.storyboard */,
 				B86A372F201A8787000635CD /* Assets.xcassets */,
 				B86A3731201A8787000635CD /* LaunchScreen.storyboard */,
 				B86A3734201A8787000635CD /* Info.plist */,
 				B86A3735201A8787000635CD /* main.m */,
+				9B24175714D90F43E1A2E3A6 /* CardViewButton.m */,
+				9B241D895F2B5A8738AD19A5 /* CardViewButton.h */,
+				9B2417635C7B87F705EF9A5A /* assets */,
+				9B2411918E16D7E7CD24B5C4 /* SnapshotView.m */,
+				9B241A4A3996938964F8D135 /* SnapshotView.h */,
+				9B2415F16CC5174BBF12A47D /* StackContainer.m */,
+				9B241D9A41E3B61D8D9FC702 /* StackContainer.h */,
+				9B24146DF54633309E5BA1D8 /* CardViewHeader.m */,
+				9B241931FC3B5D9F1B497141 /* CardViewHeader.h */,
 			);
 			path = AppCollectionView;
 			sourceTree = "<group>";
@@ -132,6 +206,18 @@
 				B86A3733201A8787000635CD /* LaunchScreen.storyboard in Resources */,
 				B86A3730201A8787000635CD /* Assets.xcassets in Resources */,
 				B86A372E201A8787000635CD /* Main.storyboard in Resources */,
+				9B24113921DA4E03AD3A4963 /* snapshot_0.png in Resources */,
+				9B241FECCADE47596F7B9477 /* snapshot_1.png in Resources */,
+				B8D1FAF92020145600072D4C /* play@2x.png in Resources */,
+				B8D1FAEB201FF1CD00072D4C /* appcard.png in Resources */,
+				B8D1FAFB2020146F00072D4C /* skip@2x.png in Resources */,
+				9B24172B7AD148B0148235C0 /* snapshot_2.png in Resources */,
+				9B2412DE419B52397DE2E48D /* snapshot_3.png in Resources */,
+				9B2412ACE87A0FF189D531F3 /* snapshot_4.png in Resources */,
+				B8D1FAFD2020149900072D4C /* back@2x.png in Resources */,
+				9B2419CEDFB39C488410F195 /* snapshot_5.png in Resources */,
+				9B24105E1DDFE14731561D4E /* snapshot_6.png in Resources */,
+				9B241E7F0FD403C75838F3C2 /* snapshot_7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,9 +228,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B86A372B201A8787000635CD /* ViewController.m in Sources */,
+				B86A372B201A8787000635CD /* CollectionViewControler.m in Sources */,
 				B86A3736201A8787000635CD /* main.m in Sources */,
+				B86A373E201A9D07000635CD /* CollectionViewCell.m in Sources */,
 				B86A3728201A8787000635CD /* AppDelegate.m in Sources */,
+				9B241999862EAA40E55CF9F2 /* ColorProvider.m in Sources */,
+				9B241562343AC481C7D67C1F /* CardViewButton.m in Sources */,
+				9B2416128651DEA53035ACA8 /* SnapshotView.m in Sources */,
+				9B241AA697C21DB9B5EE4314 /* StackContainer.m in Sources */,
+				9B24148C2D5EA32311D0EEF7 /* CardViewHeader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,12 +370,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RUMWXF5QY3;
 				INFOPLIST_FILE = AppCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.creaturecoding.AppCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -292,12 +387,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = RUMWXF5QY3;
 				INFOPLIST_FILE = AppCollectionView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.creaturecoding.AppCollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
